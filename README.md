@@ -1,5 +1,5 @@
 # BeTheHero
-> Ajude ONGS resolverem casos de acidentes que ninguém espere que aconteça! Contribue e seja o herói que o mundo precisa!!
+> Ajude ONG´s resolverem casos de acidentes que ninguém espere que aconteça! Contribue e seja o herói que o mundo precisa!!
 
 Fotografia 1 – Aplicação web em sua primeira versão
 
