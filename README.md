@@ -75,6 +75,6 @@ Execute o mobile com comando "yarn start"
 
 <p align="center">
   <a alt="Natan Foleto Linkedin" href="https://www.linkedin.com/in/natan-foleto-9bbb2b178//">
-    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQETEoI800q-IQ/profile-displayphoto-shrink_200_200/0?e=1594857600&v=beta&t=EM__SHHX-rHEXhq-BGYiz9OX1XYV3wwb9H0QF6xMHcQ"/>
+    <img src="https://avatars.githubusercontent.com/u/39577730?v=4"/>
   </a>
 </p>
